@@ -1,0 +1,24 @@
+.auth-container {
+  width: 300px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.auth-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.auth-container button {
+  width: 100%;
+  padding: 10px;
+  background: #003366;
+  color: white;
+  border: none;
+}
+
+.forgot {
+  color: blue;
+  cursor: pointer;
+}
